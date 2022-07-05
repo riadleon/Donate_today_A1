@@ -1,0 +1,42 @@
+header {
+    background-image: url("images/donation13.jpg");
+    background-color: #cccccc;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    width: 1440px;
+    height: 669px;
+    left: 0px;
+    top: 0px;
+    background-repeat: no-repeat;
+
+}
+
+.header-content {
+    position: absolute;
+    width: 826px;
+    height: 320px;
+    left: 307px;
+    top: 174px;
+
+}
+
+.header-content h1,
+p {
+    text-align: center;
+    color: rgb(162, 2, 255);
+    text-decoration: solid;
+}
+
+.button {
+    background-color: #4CAF50;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
