@@ -222,6 +222,7 @@ input[type=text] {
     text-align: center;
     justify-content: center;
     display: flex;
+    margin: 0 auto;
 
 
 }
@@ -235,6 +236,37 @@ input[type=text] {
     justify-content: center;
     display: flex;
 }
+
+/*about section*/
+
+
+.about-conatiner {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+
+
+
+.Work-Inquiry button {
+    padding: 15px 45px;
+    background-image: linear-gradient(45deg, salmon, tomato);
+    border: none;
+    border-radius: 25px;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 5px;
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+
 
 
 
